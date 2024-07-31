@@ -25,4 +25,4 @@ A star schema is a type of database schema that consists of a central fact table
 ## Tools and Technologies
 - **PostgreSQL**: The database management system used for storing and managing the data.
 - **SQL**: Used for data extraction, transformation, and loading (ETL) processes.
-- **Data Modeling Tools**: Used for designing and visualizing the star schema.
+- **Draw.io**: Used for designing and visualizing the star schema.
